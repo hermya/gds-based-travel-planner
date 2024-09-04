@@ -1,2 +1,2 @@
-# gds-based-travel-planner
+# GDS Based Travel planner
 An end-to-end Java Springboot + React based, GDS supported flight ticket booking platform with amazing UX and new features
